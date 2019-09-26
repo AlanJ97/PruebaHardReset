@@ -15,5 +15,7 @@ namespace GitReset
         {
             InitializeComponent();
         }
+        //commit 2
+        
     }
 }
